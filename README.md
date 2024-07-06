@@ -50,3 +50,6 @@ ____
 > `MongoDB_URL="mongodb://127.0.0.1:27017"` <br />
 > `DATABASE_NAME="fastapi_database"` <br />
 > `COLLECTION_NAME="students"` <br />
+
+> [!NOTE]
+> Check `/output_images/` for output.
